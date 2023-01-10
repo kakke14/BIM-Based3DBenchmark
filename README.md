@@ -1,5 +1,5 @@
 # BIM-Based3DBenchmark
-Benchmark model A and B for automated performance assessment of automates construction safety planning approaches
+This Repository contains the Benchmark model A and B for automated performance assessment of automated construction safety planning approaches. Additionally it contains the Workshop document, that has been used to create the ground truth assessments, that is used in the automated assessment application [Automated Assessment Application](ASD.DK). 
 
 ## Benchmark model A 
 The low complexity benchmark model, which is a minimum viable solution assessment. The model consists of only a ground plane placed at elevation 0, 4 walls, each 4 meters high, and a slab on top. This situation clearly contains one hazardous platform that needs to be protected. This model allows us to clearly understand how the domain experts are assessing the model, capturing the ground truth, and should not lead to any ambiguity.
