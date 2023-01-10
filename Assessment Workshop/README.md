@@ -1,1 +1,0 @@
-![](Ground_truth_workshop_document.pdf)
